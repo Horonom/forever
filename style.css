@@ -40,10 +40,9 @@ img {
     margin: 50px;
 }
 .span{
-    display: flex;
     font-size: 35px;
     color: white;
-    justify-content: space-between;
+    text-align: center;
 }
 .spann{
     font-size: 35px;
